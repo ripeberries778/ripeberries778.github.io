@@ -1,6 +1,6 @@
 # Johnny Nguyen
 
-![pic]()
+![pic](IMG_1707.HEIC)
 
 
 johnnynguyen0213@gmail.com

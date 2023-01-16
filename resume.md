@@ -11,8 +11,7 @@ I am fourth year at the University of Washington majoring in Geography Data Scie
 
 
 # Internships
-
-Port of Seattle 
+[Port of Seattle](https://www.portseattle.org)
 
 ## Airport Location
 
@@ -41,11 +40,15 @@ Summary of your role
 
 # Phi Chi Theta (PCT)
 
-UWPCT 
+[PCT National](https://phichitheta.org)
+
+[UWPCT](https://www.uwpct.com)
 
 ## Recruitment Committee
 
 - Collaborated with Recruitment committee members to develop Rush themes and workshop events for upcoming classes by providing ideas
 - Work along PCT Marketing team to coordinate the advertisement of Rushing through communication to ensure awareness of the event
 
+# Sneaker Reselling
 
+## [page link](https://www.instagram.com/deluxe_kick/)

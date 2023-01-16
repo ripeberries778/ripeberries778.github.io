@@ -1,11 +1,14 @@
 # Johnny Nguyen
 
+![pic]()
+
+
 johnnynguyen0213@gmail.com
 
 https://www.linkedin.com/in/johnny-h-nguyen/
 
-
 I am fourth year at the University of Washington majoring in Geography Data Science. 
+
 
 # Internships
 
@@ -31,6 +34,7 @@ Summary of your role
 
 **Asset Management Intern** (Summer 2019)
 
-- Worked within a cohort of six interns to identify and track over 10,000 assets accumulating to a value of over $2.1 million, to inform the Port of potential losses.
+- Worked within a cohort of six interns to identify and track over 10,000!
+ assets accumulating to a value of over $2.1 million, to inform the Port of potential losses.
 - Lead final revisions for a GAP  analysis; which includes in-depth research on various types of asset tags saving the Port millions in property and assets.
 - Conducted field work which included tagging locations of Port vehicles, property and branding.

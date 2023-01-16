@@ -38,3 +38,14 @@ Summary of your role
  assets accumulating to a value of over $2.1 million, to inform the Port of potential losses.
 - Lead final revisions for a GAP  analysis; which includes in-depth research on various types of asset tags saving the Port millions in property and assets.
 - Conducted field work which included tagging locations of Port vehicles, property and branding.
+
+# Phi Chi Theta (PCT)
+
+UWPCT 
+
+## Recruitment Committee
+
+- Collaborated with Recruitment committee members to develop Rush themes and workshop events for upcoming classes by providing ideas
+- Work along PCT Marketing team to coordinate the advertisement of Rushing through communication to ensure awareness of the event
+
+

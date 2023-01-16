@@ -1,55 +1,36 @@
 # Johnny Nguyen
 
-your.name@example.com
+johnnynguyen0213@gmail.com
 
-http://www.example.com
+https://www.linkedin.com/in/johnny-h-nguyen/
 
-http://www.linkedin.com/in/yourname
 
-# Summary
+I am fourth year at the University of Washington majoring in Geography Data Science. 
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+# Internships
 
-# Work Experience (only last 10 years)
+Port of Seattle 
 
-## University Name 1 (City, State)
+## Airport Location
 
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+**Pathfinder Intern** (Summer 2018)
 
 Summary of your role
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Served 36.2 million guests traveling through the airport a hospitable experience by providing direction through effective communication of a mixture of **English and Vietnamese.**
+- Collaborated with a group of 8 to provide direction and location for airport customers and staff.
+- Stationed at various locations within the airport to cover main points travelers would pass by.
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+## Seattle Headquarter Location
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+**Port of Seattle Youth Ambassador** (Spring 2019)
 
-Summary of your role
+- Collaborated in groups of 3 to create three projects to advertise the Port of Seattle’s summer internship program with supervision of Amerine Wilson-Enrico, the Port’s internship director.
+- Developed outreach materials and hosted an outreach event about the internship program that gained hundreds of viewers.
+- Worked alongside ambassadors, and higher ups to efficiently gather information to produce quality projects.
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+**Asset Management Intern** (Summer 2019)
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+- Worked within a cohort of six interns to identify and track over 10,000 assets accumulating to a value of over $2.1 million, to inform the Port of potential losses.
+- Lead final revisions for a GAP  analysis; which includes in-depth research on various types of asset tags saving the Port millions in property and assets.
+- Conducted field work which included tagging locations of Port vehicles, property and branding.
